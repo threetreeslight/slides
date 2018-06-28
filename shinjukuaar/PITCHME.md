@@ -1,5 +1,7 @@
 # shinjuku.aar #2
 
+Hashtag: `#shinjukuaar`
+
 ---
 
 ## 2年ぶりに開催!!!
@@ -26,7 +28,7 @@ Shinjuku.aarは、新宿界隈のAndroid技術者たちが 技術ネタで気軽
 
 会場・フード・ドリンク
 
-https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-logo-colored.png?raw=true
+![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-logo-colored.png?raw=true)
 
 ---
 
