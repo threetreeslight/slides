@@ -156,11 +156,11 @@ curl -XPOST -d'[{"labels":{"alertname":"mistely alert","serverity":"critical","i
 curl -XPOST -d'[{"labels":{"alertname":"mistely alert","serverity":"critical","instance":"example"}}]' http://localhost:9093/api/v1/alerts
 ```
 
-おっけーこれでとんだ。
+---
 
-```
-open http://localhost:9093/#/status
-```
+## みてみる
+
+DEMO
 
 ---
 
