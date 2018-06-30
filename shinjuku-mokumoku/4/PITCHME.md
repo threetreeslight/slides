@@ -1,4 +1,4 @@
-# blog availability monitoring via blackbox_exporter
+## blog availability monitoring via blackbox_exporter
 
 @threetreeslight
 
