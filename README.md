@@ -2,6 +2,7 @@
 
 use https://gitpitch.com/
 
-- [example](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/4)
+- [hacking-hr/1](https://gitpitch.com/threetreeslight/slides/master?p=hacking-hr/1)
+- [shinjuku-mokumoku/4](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/4)
 - [example](https://gitpitch.com/threetreeslight/slides/master?p=example)
 
