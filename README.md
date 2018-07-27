@@ -7,5 +7,7 @@ use https://gitpitch.com/
   - [shinjuku-mokumoku/5](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/5)
   - [shinjuku-mokumoku/6](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/6)
   - [shinjuku-mokumoku/7](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/7)
+- repro-tech-meetup
+  - [`systemd-nspawn`は便利らしい](https://gitpitch.com/threetreeslight/slides/master?p=repro-tech-meetup/1)
 - [example](https://gitpitch.com/threetreeslight/slides/master?p=example)
 
