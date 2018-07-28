@@ -1,4 +1,4 @@
-# `systemd-nspawn` <br> は便利らしい
+## `systemd-nspawn` <br> は便利らしい
 
 @threetreeslight
 
@@ -6,13 +6,11 @@ on Repro Tech Meetup #1
 
 ---
 
-# whoami
+## whoami
 
 ![](https://avatars3.githubusercontent.com/u/1057490?s=200&v=4)
 
-@threetreeslight
-
-VP of Engineering at Repro
+@threetreeslight / VPoE at Repro
 
 shinjuku.rb, shinjuku-aar, shinjuku-mokumoku, Hacking HR! などのコミュニティオーガナイザーしています
 
