@@ -3,11 +3,12 @@
 use https://gitpitch.com/
 
 - shinjuku-mokumoku
-  - [shinjuku-mokumoku/4](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/4)
-  - [shinjuku-mokumoku/5](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/5)
-  - [shinjuku-mokumoku/6](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/6)
-  - [shinjuku-mokumoku/7](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/7)
+  - [#4 - BLOG AVAILABILITY MONITORING VIA BLACKBOX_EXPORTER](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/4)
+  - [#5 - SLACK ALERT PRETTFY AND NGINX LTSV](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/5)
+  - [#6 - HOW TO CLUSTER-LEVEL LOGGING AGGREGATE ON KUBERNATES?](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/6)
+  - [#7 - CUSTERMIZE NODE LOGGING AGENT ON GKE](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/7)
+  - [#8 - UPDATE FLEUNT-GCP VERSION](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/8)
 - repro-tech-meetup
-  - [`systemd-nspawn`は便利らしい](https://gitpitch.com/threetreeslight/slides/master?p=repro-tech-meetup/1)
+  - [#1 - `systemd-nspawn`は便利らしい](https://gitpitch.com/threetreeslight/slides/master?p=repro-tech-meetup/1)
 - [example](https://gitpitch.com/threetreeslight/slides/master?p=example)
 
