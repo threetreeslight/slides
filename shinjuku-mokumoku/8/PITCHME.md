@@ -1,6 +1,6 @@
 # Update fleunt-gcp version
 
-@threetreeslight 
+@threetreeslight
 
 on shinjuku mokumoku programming #8
 
@@ -84,8 +84,8 @@ gem 'oj', '~>2.18.1'
 [Bumped fluentd from 0.12.32 to 0.14.25 #148](https://github.com/GoogleCloudPlatform/k8s-stackdriver/pull/148)
 
 > Hi Yu,
-> I'm interested in how have you tested this version of fluentd. 
-> Could you add more context to your PR. 
+> I'm interested in how have you tested this version of fluentd.
+> Could you add more context to your PR.
 > And maybe description which bugs have been fixed, or which features are introduced would be very helpful.
 > Thanks
 
