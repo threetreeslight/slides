@@ -1,4 +1,4 @@
-## fluentd Overview
+## fluentd 101
 
 @threetreeslight
 

@@ -4,8 +4,11 @@ transition : none
 
 # Look-and-Feel
 theme : night
-theme-override : assets/css/netflix/PITCHME.css
+theme-override : shinjukurb/64/PITCHME.css
 
 code-line-numbers : true
 mathjax : TeX-MML-AM_HTMLorMML-full
 charts : true
+
+# security
+published : true
