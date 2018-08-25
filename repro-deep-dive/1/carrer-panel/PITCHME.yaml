@@ -1,0 +1,11 @@
+# Layout
+layout : center-top
+transition : none
+
+# Look-and-Feel
+theme : black
+theme-override : /repro-deep-dive/1/PITCHME.css
+
+code-line-numbers : true
+mathjax : TeX-MML-AM_HTMLorMML-full
+charts : true
