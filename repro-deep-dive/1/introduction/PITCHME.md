@@ -8,9 +8,9 @@ Hashtag: [`#reproio`](https://twitter.com/hashtag/reproio)
 
 ## Repro Deep Dive!って何？
 
-日本を代表する分析サービス Repro
+日本を代表するMAサービス **Repro**
 
-そんなReproを切り口に **スタートアップの実態** を知るミートアップ
+そんなReproを切り口に **スタートアップの実態** に迫る
 
 ---
 
@@ -32,10 +32,15 @@ Hashtag: [`#reproio`](https://twitter.com/hashtag/reproio)
 
 ## 本日のお品書き
 
-- 19:30 Reproはどんなタイプのスタートアップ？
-- 19:40 なんでスタートアップいっちゃったの？
-- 20:00 ちょっと休憩
-- 20:10 スタートアップってぶっちゃけどうなの？
+- 19:40 THE MAP FOR DEEP DIVE!
+- 19:50 なんでスタートアップいっちゃったの？
+- 20:10 スタートアップってどうなの？
+
+---
+
+ドンドン質問してね！
+
+# 👉 [`slido.com`](https://app2.sli.do/event/mi2xjpto) #C690
 
 ---
 
@@ -57,9 +62,9 @@ Hashtag: [`#reproio`](https://twitter.com/hashtag/reproio)
 
 ---
 
-## アンケート
+アンケート
 
-👉　[slido.com](https://app2.sli.do/event/xxx/questions) #xxx
+# 👉 [`slido.com`](https://app2.sli.do/event/mi2xjpto) #C690
 
 
 ---

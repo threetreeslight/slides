@@ -1,9 +1,11 @@
-## スタートアップ
-# ぶっちゃけ<br>どうなの？
+# スタートアップってどうなの？
+
+パネルディスカッション
+on Repro Deep Dive! #1
 
 ---
 
-キーワード
+気になること
 
 # 将来性 お金 成長
 # 自由 家庭 裁量 機会
@@ -13,13 +15,13 @@
 
 # リスク <-> 利益
 
-それぞれの観点で探っていきましょう 💪
+探っていきましょう 💪
 
 ---
 
-## ドンドン質問してね！
+ドンドン質問してね！
 
-👉 [slido.com](http://slido.com/) #xxx
+# 👉 [`slido.com`](https://app2.sli.do/event/mi2xjpto) #C690
 
 ---
 
@@ -27,13 +29,13 @@
 
 自己紹介となぜReproへ？を簡単に
 
-- Kazuya Kataoka
-- Tsubasa Sasaki
-- Naoki Ito
+- [Kazuya Kataoka](https://twitter.com/kataokabussan)
+- [Tsubasa Sasaki](https://twitter.com/)
+- [Naoki Ito](https://twitter.com/n_11o)
 
 モデレーター
 
-- Akira Miki
+- [Akira Miki](https://twitter.com/threetreeslight)
 
 ---
 
