@@ -17,6 +17,8 @@ use https://gitpitch.com/
   - [#7 - CUSTERMIZE NODE LOGGING AGENT ON GKE](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/7)
   - [#8 - UPDATE FLEUNT-GCP VERSION](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/8)
   - [#10 - Which log should be collected on kubernates?](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/10)
+  - [#13 - Issue and Update ssl certificate automatically on GCP](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/13)
+  - [#15 - What is service mesh?](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/15)
 - [Shinjuku.rb](shinjukurb/meetups)
   - [#64 - fluentd 101](https://gitpitch.com/threetreeslight/slides/master?p=shinjukurb/64/fluetnd-101)
   - [#64 - What is the best way to collect log on kubernates?](https://gitpitch.com/threetreeslight/slides/master?p=shinjukurb/64/kubernates-logging)
