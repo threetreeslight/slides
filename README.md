@@ -22,3 +22,5 @@ use https://gitpitch.com/
 - [Shinjuku.rb](shinjukurb/meetups)
   - [#64 - fluentd 101](https://gitpitch.com/threetreeslight/slides/master?p=shinjukurb/64/fluetnd-101)
   - [#64 - What is the best way to collect log on kubernates?](https://gitpitch.com/threetreeslight/slides/master?p=shinjukurb/64/kubernates-logging)
+- techbook-mokumoku
+  - [Rev.13 - Repro promotion](https://gitpitch.com/threetreeslight/slides/master?p=techbook-mokumoku)
