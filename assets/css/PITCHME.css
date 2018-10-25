@@ -5,6 +5,15 @@
   /* max-height: 300px; */
 }
 
+.reveal blockquote {
+  width: 90%;
+  text-align: left;
+}
+
+.w-75 {
+  width: 75%;
+}
+
 /*
 .reveal {
   font-size: 36px;

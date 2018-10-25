@@ -5,6 +5,7 @@ use https://gitpitch.com/
 - frontend-temple
   - [docker temple #1 - Dcokerいいよねっ](https://gitpitch.com/threetreeslight/slides/master?p=frontend-temple/docker_temple_1)
 - [hacking hr](hacking-hr/hacking-hr)
+  - [#4 - 僕が知りたいのは何をしたら良いのかだった](https://gitpitch.com/threetreeslight/slides/master?p=hacking-hr/4)
 - Repro Tech Meetup
   - [#1 - `systemd-nspawn`は便利らしい](https://gitpitch.com/threetreeslight/slides/master?p=repro-tech-meetup/1)
 - Repro Deep Dive
