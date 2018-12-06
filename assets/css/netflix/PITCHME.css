@@ -14,6 +14,19 @@
   max-height: 300px;
 }
 
+.reveal .w-70 {
+  width: 70%;
+}
+
+.reveal .w-center {
+  text-align: center;
+}
+
+.reveal li {
+  font-size: 85%;
+}
+
+
 /* original */
 body {
   /* fallback for old browsers */

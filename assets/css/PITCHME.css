@@ -5,6 +5,10 @@
   /* max-height: 300px; */
 }
 
+.reveal li {
+  font-size: 90%;
+}
+
 .reveal blockquote {
   width: 90%;
   text-align: left;
