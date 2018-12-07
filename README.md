@@ -4,9 +4,11 @@ use https://gitpitch.com/
 
 - frontend-temple
   - [docker temple #1 - Dcokerいいよねっ](https://gitpitch.com/threetreeslight/slides/master?p=frontend-temple/docker_temple_1)
-- [for recruiting - self introduction](https://gitpitch.com/threetreeslight/slides/master?p=for-recruiting)
+- [for recruitingtalk session  self introduction](https://gitpitch.com/threetreeslight/slides/master?p=for-recruiting)
 - [hacking hr](hacking-hr/hacking-hr)
   - [#4 - 僕が知りたいのは何をしたら良いのかだった](https://gitpitch.com/threetreeslight/slides/master?p=hacking-hr/4)
+- railsdm
+  - [Failure learned through some startups](https://gitpitch.com/threetreeslight/slides/master?p=railsdm/failure-learned-through-some-startups)
 - Repro Tech Meetup
   - [#1 - `systemd-nspawn`は便利らしい](https://gitpitch.com/threetreeslight/slides/master?p=repro-tech-meetup/1)
 - Repro Deep Dive
