@@ -9,3 +9,10 @@ theme-override : /repro-deep-dive/1/PITCHME.css
 code-line-numbers : true
 mathjax : TeX-MML-AM_HTMLorMML-full
 charts : true
+
+# Analytics
+gatoken : UA-30683463-3
+# Twitter
+title : "Repro Deep Dive Introduction"
+description : "Repro Deep Dive!って何？今日語りたいこととは"
+# thumbnail :

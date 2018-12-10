@@ -12,3 +12,10 @@ charts : true
 
 logo : /assets/images/repro/repro-logo-white.png
 footnote : "Repro Tech Meetup"
+
+# Analytics
+gatoken : UA-30683463-3
+# Twitter
+title : "複数のスタートアップを通して得た失敗と学び"
+description : "複数のスタートアップを通して得た失敗と学び on Rails developer meetup 2018 day 4"
+# thumbnail :

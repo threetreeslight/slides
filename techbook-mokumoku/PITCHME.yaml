@@ -9,3 +9,10 @@ theme-override : /repro-deep-dive/1/PITCHME.css
 code-line-numbers : true
 mathjax : TeX-MML-AM_HTMLorMML-full
 charts : true
+
+# Analytics
+gatoken : UA-30683463-3
+# Twitter
+title : "もくもく執筆会 REV.13 Sponsor LT"
+description : "もくもく執筆会 REV.13 Sponsor LT"
+# thumbnail :

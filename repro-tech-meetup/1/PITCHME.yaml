@@ -2,3 +2,10 @@ theme : beige
 theme-override : /assets/css/PITCHME.css
 # theme : moon
 # theme-override : /assets/css/bullseye/PITCHME.css
+
+# Analytics
+gatoken : UA-30683463-3
+# Twitter
+title : "systemd-nspawn は便利らしい"
+description : "systemd-nspawn は便利らしい on Repro Tech Meetup #1"
+# thumbnail :

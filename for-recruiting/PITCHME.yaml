@@ -12,3 +12,10 @@ charts : true
 
 logo : /assets/images/repro/repro-logo-white.png
 footnote : "Repro Tech Meetup"
+
+# Analytics
+gatoken : UA-30683463-3
+# Twitter
+title : "Repro Introduction on for-recruiting"
+description : "scouty、Repro、トレジャーデータと考える採用のための組織のハナシ on 2018-12-06 "
+# thumbnail :

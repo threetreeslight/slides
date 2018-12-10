@@ -12,3 +12,10 @@ charts : true
 
 # security
 published : true
+
+# Analytics
+gatoken : UA-30683463-3
+# Twitter
+title : "What is the best way to collect log on kubernates?"
+description : "What is the best way to collect log on kubernates? on shinjuku.rb #64"
+# thumbnail :

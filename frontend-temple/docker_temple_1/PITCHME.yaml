@@ -1,2 +1,9 @@
 theme : Beige
 theme-override : /assets/css/PITCHME.css
+
+# Analytics
+gatoken : UA-30683463-3
+# Twitter
+title : "Docker いいよねっ"
+description : "ReproでのDocker利用とその恩恵 on Docker Hands-on"
+# thumbnail :
