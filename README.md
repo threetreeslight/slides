@@ -28,6 +28,7 @@ use https://gitpitch.com/
   - [#19 - もくもくしたtips](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/19)
   - [#20 - How to probe prometheus & grafana, What is helm](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/20)
   - [#21 - Istio Traffic Management](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/21)
+  - [#27 - Calm down for troubleshooting](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/27)
 - [Shinjuku.rb](shinjukurb/meetups)
   - [#64 - fluentd 101](https://gitpitch.com/threetreeslight/slides/master?p=shinjukurb/64/fluetnd-101)
   - [#64 - What is the best way to collect log on kubernates?](https://gitpitch.com/threetreeslight/slides/master?p=shinjukurb/64/kubernates-logging)
