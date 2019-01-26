@@ -14,6 +14,7 @@
   - [#1 - introduction](https://gitpitch.com/threetreeslight/slides/master?p=repro-deep-dive/1/introduction)
   - [#1 - panel discussion](https://gitpitch.com/threetreeslight/slides/master?p=repro-deep-dive/1/carrer-panel)
 - [Shinjuku Mokumoku Programming](shinjuku-mokumoku/shinjuku-mokumoku)
+  - [#32 - Cant change service typt from Nodeport to ClusterIP](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/32)
   - [#31 - Node Label OR Taints](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/31)
   - [#27 - Calm down for troubleshooting](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/27)
   - [#21 - Istio Traffic Management](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/21)
