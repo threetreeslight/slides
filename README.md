@@ -1,18 +1,19 @@
 # slides
 
-- frontend-temple
-  - [docker temple #1 - Dcokerいいよねっ](https://gitpitch.com/threetreeslight/slides/master?p=frontend-temple/docker_temple_1)
-- [for recruitingtalk session  self introduction](https://gitpitch.com/threetreeslight/slides/master?p=for-recruiting)
+- [frontend-temple](https://frontend-temple.connpass.com/)
+  - [docker temple #1](https://frontend-temple.connpass.com/event/95173/) - [Dcokerいいよねっ](https://gitpitch.com/threetreeslight/slides/master?p=frontend-temple/docker_temple_1)
 - [hacking hr](hacking-hr/hacking-hr)
-  - [#4 - 僕が知りたいのは何をしたら良いのかだった](https://gitpitch.com/threetreeslight/slides/master?p=hacking-hr/4)
-- [Tokyo iOS meetup](https://www.meetup.com/TokyoiOSMeetup/)
-  - [what is the best way of method swizzling?](https://www.slideshare.net/AkiraMiki/what-isthebestwayofmethodswizzling) on iOS meetup at Feb 14, 2015
+  - [vol.4](https://hacking-hr.connpass.com/event/103909/) - [僕が知りたいのは何をしたら良いのかだった](https://gitpitch.com/threetreeslight/slides/master?p=hacking-hr/4)
 - Rails Developer Meetup
-  - [Failure learned through some startups](https://gitpitch.com/threetreeslight/slides/master?p=railsdm/failure-learned-through-some-startups)
-- Repro Tech Meetup - [#1 - `systemd-nspawn`は便利らしい](https://gitpitch.com/threetreeslight/slides/master?p=repro-tech-meetup/1)
-- Repro Deep Dive
-  - [#1 - introduction](https://gitpitch.com/threetreeslight/slides/master?p=repro-deep-dive/1/introduction)
-  - [#1 - panel discussion](https://gitpitch.com/threetreeslight/slides/master?p=repro-deep-dive/1/carrer-panel)
+  - [2018 Day 4 Nouvelle Vague](https://techplay.jp/event/702297)
+    - [Failure learned through some startups](https://gitpitch.com/threetreeslight/slides/master?p=railsdm/failure-learned-through-some-startups)
+- [Repro Tech Meetup](https://repro-tech.connpass.com/)
+  - [#1 - `systemd-nspawn`は便利らしい](https://gitpitch.com/threetreeslight/slides/master?p=repro-tech-meetup/1)
+- [Repro Deep Dive](https://repro.connpass.com/event/97665/)
+  - [vol.1 - introduction](https://gitpitch.com/threetreeslight/slides/master?p=repro-deep-dive/1/introduction)
+  - [vol.1 - panel discussion](https://gitpitch.com/threetreeslight/slides/master?p=repro-deep-dive/1/carrer-panel)
+- [scouty、Repro、トレジャーデータと考える採用のための組織のハナシ](https://scouty.connpass.com/event/101556/)
+  - [self introduction](https://gitpitch.com/threetreeslight/slides/master?p=for-recruiting)
 - [Shinjuku Mokumoku Programming](shinjuku-mokumoku/shinjuku-mokumoku)
   - [#32 - Cant change service typt from Nodeport to ClusterIP](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/32)
   - [#31 - Node Label OR Taints](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/31)
@@ -42,9 +43,12 @@
   - [#30 - 決済って悩むことが多い](https://www.slideshare.net/AkiraMiki/ss-55503037) on shinjukurb #30 at Nov 25, 2015
   - [#29 - rails + serverengineで お手軽daemon](https://www.slideshare.net/AkiraMiki/rails-serverenginedaemon) on shinjukurb #29 at Sep 30, 2015
   - [#27 - Microserviceなんて最初からやるもんじゃ無かった](https://www.slideshare.net/AkiraMiki/20160722-microservice) on  shinjukurb #27 at July 22, 2015
-- TechBlog DeepDive meetup
-  - [Dockerizeして 大変だった話、幸せになった話](https://www.slideshare.net/AkiraMiki/dockerize) on TechBlog DeepDive meetup #1 at July 5, 2016
-- スタートアップ企業tips共有会
+- [Tokyo iOS meetup](https://www.meetup.com/TokyoiOSMeetup/)
+  - [what is the best way of method swizzling?](https://www.slideshare.net/AkiraMiki/what-isthebestwayofmethodswizzling) on iOS meetup at Feb 14, 2015
+- [様々なフェーズのスタートアップ企業tips共有会](https://techplay.jp/event/585689)
   - [今だから言えるやらないほうが良かったこと](https://www.slideshare.net/AkiraMiki/ss-61454434) on スタートアップ企業tips共有会 at Apr 27, 2016
+- [【トレタ×プレイド】TechBlog Deep Dive Meetup #1 〜インフラ編〜](https://plaidtech.connpass.com/event/33511/)
+  - [Dockerizeして 大変だった話、幸せになった話](https://www.slideshare.net/AkiraMiki/dockerize) on TechBlog DeepDive meetup #1 at July 5, 2016
 - [もくもく執筆回](https://techbook-meetup.connpass.com/)
   - [Rev.13 - Repro promotion](https://gitpitch.com/threetreeslight/slides/master?p=techbook-mokumoku)
+
