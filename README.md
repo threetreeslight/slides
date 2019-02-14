@@ -1,5 +1,7 @@
 # slides
 
+- [Developer Summit 2019 - エンジニア採用パネルディスカッション――困難きわまる人材確保、だが成功する方針・施策とは](https://event.shoeisha.jp/devsumi/20190214/session/1999/)
+  - [self introduction](https://gitpitch.com/threetreeslight/slides/master?p=devsumi/2019)
 - [frontend-temple](https://frontend-temple.connpass.com/)
   - [docker temple #1](https://frontend-temple.connpass.com/event/95173/) - [Dcokerいいよねっ](https://gitpitch.com/threetreeslight/slides/master?p=frontend-temple/docker_temple_1)
 - [hacking hr](hacking-hr/hacking-hr)

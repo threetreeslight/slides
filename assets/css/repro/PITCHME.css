@@ -18,6 +18,14 @@
   width: 70%;
 }
 
+.reveal .w-100 {
+  width: 70%;
+}
+
+.reveal .s-80 {
+  font-size: 80%;
+}
+
 .reveal .w-center {
   text-align: center;
 }
@@ -37,11 +45,14 @@
 /* original */
 body {
   /* fallback for old browsers */
-  background: #8E0E00;
+  /* background: #8E0E00; */
+  background: #333744;
   /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);
+  /* background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00); */
+  background: -webkit-linear-gradient(to right, #1F1C18, #333744);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  background: linear-gradient(to right, #1F1C18, #8E0E00);
+  /* background: linear-gradient(to right, #1F1C18, #8E0E00); */
+  background: linear-gradient(to right, #1F1C18, #333744);
 }
 
 .reveal pre {
