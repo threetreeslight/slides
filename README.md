@@ -17,6 +17,7 @@
 - [scouty、Repro、トレジャーデータと考える採用のための組織のハナシ](https://scouty.connpass.com/event/101556/)
   - [self introduction](https://gitpitch.com/threetreeslight/slides/master?p=for-recruiting)
 - [Shinjuku Mokumoku Programming](shinjuku-mokumoku/shinjuku-mokumoku)
+  - [#42 - Page Object Pattern](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/42)
   - [#36 - Which Static Site Generator & Hosting Service is best?](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/36)
   - [#32 - Cant change service typt from Nodeport to ClusterIP](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/32)
   - [#31 - Node Label OR Taints](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/31)
