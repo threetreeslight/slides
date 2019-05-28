@@ -1,0 +1,21 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: wantedly/2019-05-28-real-wantedly/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: /assets/images/repro/repro-logo-white.png
+footnote: "Repro"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: ""
+description: "エンジニア採用パネルディスカッション――困難きわまる人材確保、だが成功する方針・施策とは on 2019-02-15"
+thumbnail: /assets/images/repro/repro-logo-white.png
