@@ -6,6 +6,10 @@ by @threetreeslight
 
 ---
 
+# こんばんわ！
+
+---
+
 @snap[north]
 <br>
 ### whoami
@@ -51,11 +55,7 @@ by @threetreeslight
 
 ---
 
-## Current status
-
-- 毎日10億を超える以上のイベントデータを処理
-- AIでユーザーを自動セグメント
-- 毎日1.5億以上のプッシュなど施策を配信
+# 成長速度
 
 ---
 
@@ -69,32 +69,40 @@ by @threetreeslight
 
 ---
 
-# What will we do?
+## 日本のマーケットは足りない
+
+もともと、創業からグローバル志向。
 
 ---
 
-## 創業からグローバル志向
+## ただ
 
-ただ、投資家に日本シェア No.1 にもなれないサービスはグローバルで勝てないと言われたので、3年ちょいで実現したので
+投資家に日本シェア No.1 にもなれないサービスはグローバルで勝てないと言われた。
+
+4年ちょいで実現したので
 
 **Web、ゲーム、そしてグローバルへシェアを拡大**
 
----
-
-#### Globalで
-## Reproいれとこ
-#### 実現する
 
 ---
 
-### 一緒に
-# 世界へ見せつけようぜ
+## Traffic
+
+- 毎日10億を超えるイベントデータを処理
+- AIでユーザーを自動セグメント
+- 毎日1.5億以上のプッシュなど施策を配信
 
 ---
 
 # @color[#F3C759](Unicorn)
 ## @color[#F3C759](from)
 # @color[#F3C759](Here)
+
+---
+
+#### Globalで
+## Reproいれとこ
+#### 実現する
 
 ---?color=white
 
@@ -125,10 +133,7 @@ by @threetreeslight
 
 ---
 
-## Assets
+### 一緒に
+# 世界へ見せつけようぜ
 
-<div class='assets'>
-![](/railsdm/failure-learned-through-some-startups/embulk-2.png)
-![](https://cdn.freebiesupply.com/logos/large/2x/sketch-2-logo-png-transparent.png)
-![](/assets/images/repro/repro-logo-colored.png)
-</div>
+
