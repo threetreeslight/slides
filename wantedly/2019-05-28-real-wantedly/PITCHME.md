@@ -83,7 +83,6 @@ by @threetreeslight
 
 **Web、ゲーム、そしてグローバルへシェアを拡大**
 
-
 ---
 
 ## Traffic

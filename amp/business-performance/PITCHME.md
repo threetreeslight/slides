@@ -18,12 +18,12 @@ by [@threetreeslight](https://twitter.com/threetreeslight)
 
 @snap[west span-70 text-08]
 <ul>
-<li> 高専卒
+<li> 高専 専攻科卒
 <li> NTT系SIer (SE -> sales)
 <li> 音楽系スタートアップ CTO
-<li> メディア系スタートアップ 立上げ
+<li> メディア系スタートアップ 創業
 <li> 国内EC 創業
-<li> 越境系発送代行サービス 1号エンジニア
+<li> 越境系発送代行サービス
 <li> Repro 創業兼CTO -> VPoE
 </ul>
 @snapend
@@ -57,6 +57,15 @@ by [@threetreeslight](https://twitter.com/threetreeslight)
 
 ---
 
+### 今日話すこと・話さないこと
+
+- 話すこと
+  - パフォーマンス最大化に向けた環境面ハック
+- 話さないこと
+  - ビジネススキル的なハック
+
+---
+
 ## Why I need performance?
 
 ---
@@ -81,15 +90,28 @@ by [@threetreeslight](https://twitter.com/threetreeslight)
 
 ---
 
+# 成長速度
+
+---
+
+### T2D3
+
+<div class='img-70'>
+![](/wantedly/2019-05-28-real-wantedly/t2d3.png)
+</div>
+
+@css[text-05](cf. [Tech Crunch - The SaaS Adventure](https://techcrunch.com/2015/02/01/the-saas-travel-adventure/))
+
+---
+
 ## Go Global
 
-3年強で日本のアプリにおけるシェア No.1 に
+3年強で日本のアプリにおけるシェアはNo.1
 
-- 毎日10億を超える以上のイベントデータを処理
+- 毎日10億を超えるのイベントデータを処理
 - AIでユーザーを自動セグメント
 - 毎日1.5億以上のプッシュなど施策を配信
 
-**Web、ゲーム、そしてグローバルへ**
 
 ---
 
@@ -104,7 +126,7 @@ by [@threetreeslight](https://twitter.com/threetreeslight)
 
 ---
 
-## e.g. Elon Musk
+## Elon Musk
 
 - 週100時間(14h * 7days)
 - 圧倒的な生産性
@@ -128,7 +150,6 @@ by [@threetreeslight](https://twitter.com/threetreeslight)
 
 ---
 
-## (なるべく)
 # Don't Gess, Measure
 
 ---
@@ -225,6 +246,15 @@ by [@threetreeslight](https://twitter.com/threetreeslight)
 ![](/amp/business-performance/desk-work.jpg)
 ![](/amp/business-performance/desk-rest.jpg)
 </div>
+
+---
+
+### そして、ごめんなさい！
+
+MEME、ちゃんとデータ取れませんでした・・・
+
+![](/amp/business-performance/meme-3.jpg)
+
 
 ---
 
