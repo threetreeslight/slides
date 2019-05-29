@@ -50,10 +50,9 @@
   - [#29 - rails + serverengineで お手軽daemon](https://www.slideshare.net/AkiraMiki/rails-serverenginedaemon) on shinjukurb #29 at Sep 30, 2015
   - [#27 - Microserviceなんて最初からやるもんじゃ無かった](https://www.slideshare.net/AkiraMiki/20160722-microservice) on  shinjukurb #27 at July 22, 2015
 - [Tokyo iOS meetup](https://www.meetup.com/TokyoiOSMeetup/)
-- [Tokyo iOS meetup](https://www.meetup.com/TokyoiOSMeetup/)
   - [what is the best way of method swizzling?](https://www.slideshare.net/AkiraMiki/what-isthebestwayofmethodswizzling) on iOS meetup at Feb 14, 2015
 - [wantedly]()
-  - [2019-05-28 Real Wnatedly](https://gitpitch.com/threetreeslight/slides/master?p=wantedly/2019-05-28-real-wantedly/)
+  - [Why don't you choose Repro?](https://gitpitch.com/threetreeslight/slides/master?p=wantedly/2019-05-28-real-wantedly/) at [Real Wnatedly](https://www.wantedly.com/projects/302876) on 2019-05-28
 - [様々なフェーズのスタートアップ企業tips共有会](https://techplay.jp/event/585689)
   - [今だから言えるやらないほうが良かったこと](https://www.slideshare.net/AkiraMiki/ss-61454434) on スタートアップ企業tips共有会 at Apr 27, 2016
 - [【トレタ×プレイド】TechBlog Deep Dive Meetup #1 〜インフラ編〜](https://plaidtech.connpass.com/event/33511/)

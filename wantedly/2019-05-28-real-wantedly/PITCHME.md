@@ -62,7 +62,7 @@ by @threetreeslight
 ### T2D3
 
 <div class='img-70'>
-![](/wantedly/2019-05-28-real-wantedly/T2D3.png)
+![](/wantedly/2019-05-28-real-wantedly/t2d3.png)
 </div>
 
 @css[text-05](cf. [Tech Crunch - The SaaS Adventure](https://techcrunch.com/2015/02/01/the-saas-travel-adventure/))
@@ -108,32 +108,25 @@ by @threetreeslight
 
 <div class='hiring'>
 @snap[west]
-![](/railsdm/failure-learned-through-some-startups/cassandra-2.png)
+![](/wantedly/2019-05-28-real-wantedly/stack-cassandra.png)
 <br>
-![](/railsdm/failure-learned-through-some-startups/presto-2.png)
+![](/wantedly/2019-05-28-real-wantedly/stack-presto.png)
 @snapend
 
-![](/railsdm/failure-learned-through-some-startups/ruby-2.png)
-![](/railsdm/failure-learned-through-some-startups/golang-2.png)
+![](/wantedly/2019-05-28-real-wantedly/stack-ruby.png)
+![](/wantedly/2019-05-28-real-wantedly/stack-golang.png)
 <br>
 ## @color[#FF4E6A](We are hiring)
 <br>
-![](https://svn.apache.org/repos/asf/kafka/site/logos/kafka-logo-wide.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png)
+![](/wantedly/2019-05-28-real-wantedly/stack-kafka.png)
+![](/wantedly/2019-05-28-real-wantedly/stack-scikit-learn.png)
 
 @snap[east]
-![](/railsdm/failure-learned-through-some-startups/fluentd-2.png)
+![](/wantedly/2019-05-28-real-wantedly/stack-fluentd.png)
 <br>
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png)
+![](/wantedly/2019-05-28-real-wantedly/stack-vuejs.png)
 @snapend
 
 @snap[south]
 @snapend
 </div>
-
----
-
-### 一緒に
-# 世界へ見せつけようぜ
-
-
