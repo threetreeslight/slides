@@ -19,6 +19,7 @@
 - [scouty、Repro、トレジャーデータと考える採用のための組織のハナシ](https://scouty.connpass.com/event/101556/)
   - [self introduction](https://gitpitch.com/threetreeslight/slides/master?p=for-recruiting)
 - [Shinjuku Mokumoku Programming](shinjuku-mokumoku/shinjuku-mokumoku)
+  - [#56 - my best gitignore global](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/42)
   - [#42 - Page Object Pattern](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/42)
   - [#36 - Which Static Site Generator & Hosting Service is best?](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/36)
   - [#32 - Cant change service typt from Nodeport to ClusterIP](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/32)
@@ -49,6 +50,8 @@
   - [#30 - 決済って悩むことが多い](https://www.slideshare.net/AkiraMiki/ss-55503037) on shinjukurb #30 at Nov 25, 2015
   - [#29 - rails + serverengineで お手軽daemon](https://www.slideshare.net/AkiraMiki/rails-serverenginedaemon) on shinjukurb #29 at Sep 30, 2015
   - [#27 - Microserviceなんて最初からやるもんじゃ無かった](https://www.slideshare.net/AkiraMiki/20160722-microservice) on  shinjukurb #27 at July 22, 2015
+- [shumatsu worker]()
+  - [self-introduction](https://gitpitch.com/threetreeslight/slides/master?p=shumatsu-worker/2019-08-02-startup-and-sidejob) ([スタートアップが "副業社員" を活用して事業を成長させる方法](https://peatix.com/event/891581/))
 - [Tokyo iOS meetup](https://www.meetup.com/TokyoiOSMeetup/)
   - [what is the best way of method swizzling?](https://www.slideshare.net/AkiraMiki/what-isthebestwayofmethodswizzling) on iOS meetup at Feb 14, 2015
 - [wantedly]()
