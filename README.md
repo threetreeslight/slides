@@ -2,6 +2,8 @@
 
 - [AMP - ビジネスパフォーマンス向上のための環境作り](https://amp-performance.peatix.com/)
   - [Performance Hack 101](https://gitpitch.com/threetreeslight/slides/master?p=amp/business-performance/) on 2019-05-29
+- [b2b saas tech](https://b2b-saas.connpass.com/)
+  - [B2B SaaS Tech: 避けては通れぬセキュリティ on 2019-05-30](https://gitpitch.com/threetreeslight/slides/master?p=b2b-saas-tech/2019-05-30/) ([event](https://b2b-saas.connpass.com/event/137931/))
 - [Developer Summit 2019 - エンジニア採用パネルディスカッション――困難きわまる人材確保、だが成功する方針・施策とは](https://event.shoeisha.jp/devsumi/20190214/session/1999/)
   - [self introduction](https://gitpitch.com/threetreeslight/slides/master?p=devsumi/2019)
 - [frontend-temple](https://frontend-temple.connpass.com/)

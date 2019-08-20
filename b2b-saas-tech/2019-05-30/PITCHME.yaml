@@ -1,0 +1,21 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: amp/business-performance/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: /assets/images/ttl/ttl-logo.jpg
+footnote: "threetreeslight"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: "Performance Hack 101"
+description: "ビジネスパフォーマンス向上のための環境作り on 2019-05-29"
+thumbnail: amp/business-performance/thumbnail.png
