@@ -1,0 +1,21 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: potetotips/2019-08-27/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: /assets/images/repro/repro-logo-white.jpg
+footnote: "Repro Inc"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: "Potatotips #64"
+description: "Potatotips #64 on 2019-08-27"
+thumbnail: potatotips/2019-08-27/thumbnail.png

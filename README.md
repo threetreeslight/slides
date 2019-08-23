@@ -12,6 +12,8 @@
   - [docker temple #1](https://frontend-temple.connpass.com/event/95173/) - [Dcokerいいよねっ](https://gitpitch.com/threetreeslight/slides/master?p=frontend-temple/docker_temple_1)
 - [hacking hr](hacking-hr/hacking-hr)
   - [vol.4](https://hacking-hr.connpass.com/event/103909/) - [僕が知りたいのは何をしたら良いのかだった](https://gitpitch.com/threetreeslight/slides/master?p=hacking-hr/4)
+- [potetotips](https://potatotips.connpass.com/)
+  - [introduction on 2019-08-27](https://gitpitch.com/threetreeslight/slides/master?p=potatotips/2019-08-27/)
 - Rails Developer Meetup
   - [2018 Day 4 Nouvelle Vague](https://techplay.jp/event/702297)
     - [Failure learned through some startups](https://gitpitch.com/threetreeslight/slides/master?p=railsdm/failure-learned-through-some-startups)
