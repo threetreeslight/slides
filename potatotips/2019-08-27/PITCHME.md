@@ -1,8 +1,13 @@
-## Potatotips #64
+### Potatotips [#64](https://potatotips.connpass.com/event/139008/)
 
-![]()
+![](/potatotips/2019-08-27/banner.png)
 
-[on 2019-08-27](https://potatotips.connpass.com/event/139008/) [#potatotips](https://twitter.com/hashtag/potatotips)
+@snap[south span-100]
+@size[0.8em]( [#potatotips](https://twitter.com/hashtag/potatotips) )
+<br>
+
+@size[0.8em](SSID: Repro4Guest / PW: `Ripuro2019H2!`)
+@snapend
 
 ---
 
@@ -76,23 +81,23 @@ Reproはアプリ提供者に支えられているので、potatotipsがここ�
 
 <div class='hiring'>
 @snap[west]
-![](/potatotips/2019-08-27/stack-ios.png)
+![](/potatotips/2019-08-27/ios.png)
 <br>
-![](/potatotips/2019-08-27/stack-cordva.png)
+![](/potatotips/2019-08-27/cordova.png)
 @snapend
 
-![](/potatotips/2019-08-27/stack-reactnative.png)
-![](/potatotips/2019-08-27/stack-unity.png)
+![](/potatotips/2019-08-27/reactnative.png)
+![](/potatotips/2019-08-27/unity.png)
 <br>
 ## @color[#FF4E6A](We are hiring)
 <br>
-![](/potatotips/2019-08-27/stack-cocos2dx.png)
-![](/potatotips/2019-08-27/stack-unreal.png)
+![](/potatotips/2019-08-27/cocos2dx.png)
+![](/potatotips/2019-08-27/unrealengine.png)
 
 @snap[east]
-![](/potatotips/2019-08-27/stack-android.png)
+![](/potatotips/2019-08-27/android.png)
 <br>
-![](/potatotips/2019-08-27/stack-flutter.png)
+![](/potatotips/2019-08-27/flutter.png)
 @snapend
 
 @snap[south]
@@ -111,9 +116,8 @@ Reproはアプリ提供者に支えられているので、potatotipsがここ�
 
 - 19:00 はじめに
 - 19:10 LT 5min * 7
-- 20:00 sponsor talk
-- 20:05 休憩
-- 20:15 LT 5min * 7
+- 20:00 休憩
+- 20:10 LT 5min * 7
 - 21:00 懇親会
 - 22:30 撤収
 
@@ -136,5 +140,35 @@ Reproはアプリ提供者に支えられているので、potatotipsがここ�
 ---
 
 ### それでは早速
+### (飲みながら @emoji[beers])
 ## LTいきましょう @emoji[muscle]
+
+---
+
+### いいLTでしたねっ！
+
+---
+
+### これでLTした人も・・・
+## 安心して酒が飲めるぞっ！
+
+---
+
+## 🙏
+
+懇親会準備にお手伝いにご協力ください
+
+1. 椅子を手前に集め、テーブルを中央へ
+1. 食べ物・飲み物のデプロイ
+1. 真ん中に集まる
+
+---
+
+# カンパーイ
+# 🍻🍻🍻
+
+
+
+
+
 
