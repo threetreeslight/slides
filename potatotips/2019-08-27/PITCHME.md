@@ -6,9 +6,6 @@
 @size[0.8em]( [#potatotips](https://twitter.com/hashtag/potatotips) )
 <br>
 
-@size[0.8em](SSID: Repro4Guest / PW: `Ripuro2019H2!`)
-@snapend
-
 ---
 
 # こんにちわ！
