@@ -1,0 +1,21 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: kiitok/2019-08-29/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: /assets/images/ttl/ttl-logo.jpg
+footnote: "threetreeeslight"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: "VPoEの責務とは"
+description: "threetreeslight at ここだから話せるVPoEの現場 on 2019-08-27"
+thumbnail: kiitok/2019-08-29/thumbnail.png
