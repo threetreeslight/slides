@@ -6,3 +6,5 @@ services:
       - ./:/repo
     ports:
       - 9000:9000
+    environment:
+      SWEEP: 'false'

@@ -1,0 +1,21 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: kiitok/2019-09-10/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: /assets/images/ttl/ttl-logo.jpg
+footnote: "threetreeeslight"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: "スタートアップは見極められたくない"
+description: "転職透明化らぼ x kiitok - スタートアップ企業の見分け方編 on 2019-09-10"
+thumbnail: kiitok/2019-09-10/thumbnail.png
