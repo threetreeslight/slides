@@ -13,8 +13,9 @@
 - [hacking hr](hacking-hr/hacking-hr)
   - [vol.4](https://hacking-hr.connpass.com/event/103909/) - [僕が知りたいのは何をしたら良いのかだった](https://gitpitch.com/threetreeslight/slides/master?p=hacking-hr/4)
 - [kiitok](https://kiitok.connpass.com/event/138739/)
-  - [ここだから話せるVPoEの現場](https://kiitok.connpass.com/event/138739/) - [VPoEの責務とは](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-08-29)
+  - [SIerで働くU30エンジニア向けキャリアフェア](https://kiitok.connpass.com/event/147142/) - [Why don't you join Repro?](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-10-26)
   - [転職透明化らぼ x kiitok - スタートアップ企業の見分け方編](https://rtlabo.connpass.com/event/142944/) - [スタートアップは見極められたくない](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-09-10)
+  - [ここだから話せるVPoEの現場](https://kiitok.connpass.com/event/138739/) - [VPoEの責務とは](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-08-29)
 - [potatotips](https://potatotips.connpass.com/)
   - [introduction on 2019-08-27](https://gitpitch.com/threetreeslight/slides/master?p=potatotips/2019-08-27/)
 - Rails Developer Meetup
