@@ -1,0 +1,21 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: kosen/2019-11-14/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: /assets/images/ttl/ttl-logo.jpg
+footnote: "threetreeslight"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: "Choose a rare opportunity"
+description: "学科横断キャリア教育セミナー at TNCT on 2019-11-14"
+thumbnail: kosen/2019-11-14/thumbnail.png
