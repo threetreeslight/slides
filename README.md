@@ -3,28 +3,29 @@
 - [AMP - ビジネスパフォーマンス向上のための環境作り](https://amp-performance.peatix.com/)
   - [Performance Hack 101](https://gitpitch.com/threetreeslight/slides/master?p=amp/business-performance/) on 2019-05-29
 - [b2b saas tech](https://b2b-saas.connpass.com/)
-  - [B2B SaaS Tech: 避けては通れぬセキュリティ on 2019-05-30](https://gitpitch.com/threetreeslight/slides/master?p=b2b-saas-tech/2019-05-30/) ([event](https://b2b-saas.connpass.com/event/137931/))
+  - [B2B SaaS Tech: 避けては通れぬセキュリティ on 2019-05-30](https://gitpitch.com/threetreeslight/slides/master?p=b2b-saas-tech/2019-05-30/) on ([b2b SaaS Tech](https://b2b-saas.connpass.com/event/137931/))
 - [circleci](https://circleci.connpass.com/)
   - [CiecleCIでもくもく会を支える技術 on 2019-08-23](https://gitpitch.com/threetreeslight/slides/master?p=circleci/2019-08-23/)
 - [Developer Summit 2019 - エンジニア採用パネルディスカッション――困難きわまる人材確保、だが成功する方針・施策とは](https://event.shoeisha.jp/devsumi/20190214/session/1999/)
   - [self introduction](https://gitpitch.com/threetreeslight/slides/master?p=devsumi/2019)
 - EM
-  - [self introduction - エンジニア採用どうしてる？]on [EOF2019](https://eof-github.github.io/eof2019/)
+  - [self introduction - エンジニア採用どうしてる？]() on [EOF2019](https://eof-github.github.io/eof2019/)
 - [frontend-temple](https://frontend-temple.connpass.com/)
-  - [docker temple #1](https://frontend-temple.connpass.com/event/95173/) - [Dcokerいいよねっ](https://gitpitch.com/threetreeslight/slides/master?p=frontend-temple/docker_temple_1)
+  - [Dcokerいいよねっ](https://gitpitch.com/threetreeslight/slides/master?p=frontend-temple/docker_temple_1) on [docker temple #1](https://frontend-temple.connpass.com/event/95173/)
 - [hacking hr](hacking-hr/hacking-hr)
-  - [vol.4](https://hacking-hr.connpass.com/event/103909/) - [僕が知りたいのは何をしたら良いのかだった](https://gitpitch.com/threetreeslight/slides/master?p=hacking-hr/4)
+  - [僕が知りたいのは何をしたら良いのかだった](https://gitpitch.com/threetreeslight/slides/master?p=hacking-hr/4) on [vol.4](https://hacking-hr.connpass.com/event/103909/)
+- [Japan Office Society]()
+  - [オフィスはスタートアップの成長を助長するのか？阻害するのか？](https://gitpitch.com/threetreeslight/slides/master?p=japan-office-society/2019-11-25) at [日本オフィス学会 第45回研究セミナー](https://ssl.action-compass.jp/jos/formmail/seminar_045.html)
 - [kosen]()
   - [Choose a rare opportunity](https://gitpitch.com/threetreeslight/slides/master?p=kosen/2019-11-14)
 - [kiitok](https://kiitok.connpass.com/event/138739/)
-  - [SIerで働くU30エンジニア向けキャリアフェア](https://kiitok.connpass.com/event/147142/) - [Why don't you join Repro?](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-10-26)
-  - [転職透明化らぼ x kiitok - スタートアップ企業の見分け方編](https://rtlabo.connpass.com/event/142944/) - [スタートアップは見極められたくない](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-09-10)
-  - [ここだから話せるVPoEの現場](https://kiitok.connpass.com/event/138739/) - [VPoEの責務とは](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-08-29)
+  - [Why don't you join Repro?](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-10-26) on [SIerで働くU30エンジニア向けキャリアフェア](https://kiitok.connpass.com/event/147142/)
+  - [スタートアップは見極められたくない](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-09-10) on [転職透明化らぼ x kiitok - スタートアップ企業の見分け方編](https://rtlabo.connpass.com/event/142944/)
+  - [VPoEの責務とは](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-08-29) on [ここだから話せるVPoEの現場](https://kiitok.connpass.com/event/138739/)
 - [potatotips](https://potatotips.connpass.com/)
   - [introduction on 2019-08-27](https://gitpitch.com/threetreeslight/slides/master?p=potatotips/2019-08-27/)
 - Rails Developer Meetup
-  - [2018 Day 4 Nouvelle Vague](https://techplay.jp/event/702297)
-    - [Failure learned through some startups](https://gitpitch.com/threetreeslight/slides/master?p=railsdm/failure-learned-through-some-startups)
+  - [Failure learned through some startups](https://gitpitch.com/threetreeslight/slides/master?p=railsdm/failure-learned-through-some-startups) on [2018 Day 4 Nouvelle Vague](https://techplay.jp/event/702297)
 - [Repro Tech Meetup](https://repro-tech.connpass.com/)
   - [#1 - `systemd-nspawn`は便利らしい](https://gitpitch.com/threetreeslight/slides/master?p=repro-tech-meetup/1)
 - [Repro Deep Dive](https://repro.connpass.com/event/97665/)
@@ -65,7 +66,7 @@
   - [#29 - rails + serverengineで お手軽daemon](https://www.slideshare.net/AkiraMiki/rails-serverenginedaemon) on shinjukurb #29 at Sep 30, 2015
   - [#27 - Microserviceなんて最初からやるもんじゃ無かった](https://www.slideshare.net/AkiraMiki/20160722-microservice) on  shinjukurb #27 at July 22, 2015
 - [shumatsu worker]()
-  - [self-introduction](https://gitpitch.com/threetreeslight/slides/master?p=shumatsu-worker/2019-08-02-startup-and-sidejob) ([スタートアップが "副業社員" を活用して事業を成長させる方法](https://peatix.com/event/891581/))
+  - [self-introduction](https://gitpitch.com/threetreeslight/slides/master?p=shumatsu-worker/2019-08-02-startup-and-sidejob) on [スタートアップが "副業社員" を活用して事業を成長させる方法](https://peatix.com/event/891581/)
 - [Tokyo iOS meetup](https://www.meetup.com/TokyoiOSMeetup/)
   - [what is the best way of method swizzling?](https://www.slideshare.net/AkiraMiki/what-isthebestwayofmethodswizzling) on iOS meetup at Feb 14, 2015
 - [wantedly]()

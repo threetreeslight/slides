@@ -1,0 +1,21 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: japan-office-society/2019-11-25/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: assets/images/repro/repro-logo-white.png
+footnote: "Repro"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: "オフィスはスタートアップの成長を助長するのか？阻害するのか？"
+description: "日本オフィス学会 第45回研究セミナー on 2019-11-25"
+thumbnail: japan-office-society/2019-11-25/thumbnail.png
