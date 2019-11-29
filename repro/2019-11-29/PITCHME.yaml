@@ -1,0 +1,21 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: repro/2019-11-29/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: assets/images/repro/repro-logo-white.png
+footnote: "Repro"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: ""
+description: "on 2019-11-29"
+thumbnail: repro/2019-11-29/thumbnail.png
