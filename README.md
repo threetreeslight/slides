@@ -27,7 +27,7 @@
 - Rails Developer Meetup
   - [Failure learned through some startups](https://gitpitch.com/threetreeslight/slides/master?p=railsdm/failure-learned-through-some-startups) on [2018 Day 4 Nouvelle Vague](https://techplay.jp/event/702297)
 - [Repro]()
-  - [ビジネスの筋肉](https://gitpitch.com/threetreeslight/slides/master?p=repro/2019-11-27) - [先の見えない未来を生き抜く方法とは](https://www.wantedly.com/projects/376932)
+  - [ビジネスの筋肉](https://gitpitch.com/threetreeslight/slides/master?p=repro/2019-11-27/panel) - [先の見えない未来を生き抜く方法とは](https://www.wantedly.com/projects/376932)
 - [Repro Tech Meetup](https://repro-tech.connpass.com/)
   - [#1 - `systemd-nspawn`は便利らしい](https://gitpitch.com/threetreeslight/slides/master?p=repro-tech-meetup/1)
 - [Repro Deep Dive](https://repro.connpass.com/event/97665/)
