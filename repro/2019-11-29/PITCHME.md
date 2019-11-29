@@ -1,5 +1,7 @@
 ## モチベーション管理って難しい
 
+hashtag: [`#emsakaba`](https://twitter.com/hashtag/emsakaba)
+
 EM酒場 @emoji[beers] on 2019-11-29
 
 ---
@@ -9,6 +11,8 @@ EM酒場 @emoji[beers] on 2019-11-29
 ---
 
 ## EM酒場 @emoji[beers] へようこそ
+
+hashtag: [`#emsakaba`](https://twitter.com/hashtag/emsakaba)
 
 エンジニアに限らず組織のマネジメントって大変ですよね。
 さらには経営層との関わり方からプロダクトの方向性、そして自分のキャリアまで。
