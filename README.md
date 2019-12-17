@@ -19,6 +19,7 @@
 - [kosen]()
   - [Choose a rare opportunity](https://gitpitch.com/threetreeslight/slides/master?p=kosen/2019-11-14)
 - [kiitok](https://kiitok.connpass.com/event/138739/)
+  - [Why we need CRE](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-12-17)
   - [Why don't you join Repro?](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-10-26) on [SIerで働くU30エンジニア向けキャリアフェア](https://kiitok.connpass.com/event/147142/)
   - [スタートアップは見極められたくない](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-09-10) on [転職透明化らぼ x kiitok - スタートアップ企業の見分け方編](https://rtlabo.connpass.com/event/142944/)
   - [VPoEの責務とは](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-08-29) on [ここだから話せるVPoEの現場](https://kiitok.connpass.com/event/138739/)
