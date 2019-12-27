@@ -189,13 +189,9 @@ T2D3に近しい成長"角度"
 
 ---
 
-
-
-
 ### Appendix
 
 - [Tech Crunch - The SaaS Adventure](https://techcrunch.com/2015/02/01/the-saas-travel-adventure/)
 - [しがないラジオ - sp.49b【ゲスト: threetreeslight】本気で仕事するとこんなに楽しい！Repro創業期の日常あれこれ](https://shiganai.org/ep/sp49b-threetreeslight)
 - [しがないラジオ - sp.49a【ゲスト: threetreeslight】SIerを飛び出したRepro VPoEと考える、楽しいスタートアップの歩き方](https://shiganai.org/ep/sp49a-threetreeslight)
-
 

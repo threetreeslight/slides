@@ -17,7 +17,7 @@
 - [Japan Office Society]()
   - [オフィスはスタートアップの成長を助長するのか？阻害するのか？](https://gitpitch.com/threetreeslight/slides/master?p=japan-office-society/2019-11-25) at [日本オフィス学会 第45回研究セミナー](https://ssl.action-compass.jp/jos/formmail/seminar_045.html)
 - [kosen]()
-  - [Choose a rare opportunity](https://gitpitch.com/threetreeslight/slides/master?p=kosen/2019-11-14)
+  - [Choose a rare opportunity](https://gitpitch.com/threetreeslight/slides/master?p=kosen/2019-12-27) on [高専卒業生のキャリア最前線](https://kosen-career-vol1.peatix.com/view)
 - [kiitok](https://kiitok.connpass.com/event/138739/)
   - [Why we need CRE](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-12-17)
   - [Why don't you join Repro?](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-10-26) on [SIerで働くU30エンジニア向けキャリアフェア](https://kiitok.connpass.com/event/147142/)
