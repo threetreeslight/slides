@@ -379,4 +379,15 @@ T2D3に近しい成長"角度"
 - [Google - Introducing Google Customer Reliability Engineering](https://cloud.google.com/blog/products/gcp/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering)
 - [スタートアップは見極められたくない](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-09-10)
 
+---
 
+
+ARR1000億という名の山の登り方
+https://hiromaeda.com/tag/saas/
+
+SaaStr シリーズ：SaaS企業の最初の100人
+https://hiromaeda.com/author/admin/page/2/
+思ったより人が必要だよ
+
+CREが誕生した背景
+https://esa-pages.io/p/sharing/2285/posts/21924/c6f780b725995843cbfc.html
