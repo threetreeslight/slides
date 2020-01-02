@@ -83,7 +83,7 @@ by [@threetreeslight](https://twitter.com/threetreeslight)
 
 ---
 
-### Kill annoying toC communication
+### Eliminate annoying toC communication
 
 - **The Right message**
 - **To the right person**
