@@ -19,6 +19,7 @@
 - [kosen]()
   - [Choose a rare opportunity](https://gitpitch.com/threetreeslight/slides/master?p=kosen/2019-12-27) on [高専卒業生のキャリア最前線](https://kosen-career-vol1.peatix.com/view)
 - [kiitok](https://kiitok.connpass.com/event/138739/)
+  - [Repro、面白いと思うよ](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2020-02-01) on [kiitok Career Market](https://kiitok-careemarket.studio.design/)
   - [Why we need CRE](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-12-17)
   - [Why don't you join Repro?](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-10-26) on [SIerで働くU30エンジニア向けキャリアフェア](https://kiitok.connpass.com/event/147142/)
   - [スタートアップは見極められたくない](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-09-10) on [転職透明化らぼ x kiitok - スタートアップ企業の見分け方編](https://rtlabo.connpass.com/event/142944/)
