@@ -72,6 +72,8 @@
   - [#27 - Microserviceなんて最初からやるもんじゃ無かった](https://www.slideshare.net/AkiraMiki/20160722-microservice) on  shinjukurb #27 at July 22, 2015
 - [shumatsu worker]()
   - [self-introduction](https://gitpitch.com/threetreeslight/slides/master?p=shumatsu-worker/2019-08-02-startup-and-sidejob) on [スタートアップが "副業社員" を活用して事業を成長させる方法](https://peatix.com/event/891581/)
+- [Supporterz]()
+  - On 2020-02-17 [会社、選ぶの難しいよね](https://gitpitch.com/threetreeslight/slides/master?p=supporterz/2020-02-16/)
 - [Tokyo iOS meetup](https://www.meetup.com/TokyoiOSMeetup/)
   - [what is the best way of method swizzling?](https://www.slideshare.net/AkiraMiki/what-isthebestwayofmethodswizzling) on iOS meetup at Feb 14, 2015
 - [wantedly]()
