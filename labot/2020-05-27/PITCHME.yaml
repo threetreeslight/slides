@@ -1,0 +1,20 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: labot/2020-05-27/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+logo: /assets/images/ttl/ttl-logo.jpg
+footnote: "threetreeslight"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: "答えていきたい、その質問！"
+description: "QUEL CODE on 2020-05-27"
+thumbnail: labot/2020-05-27/thumbnail.png
