@@ -1,0 +1,21 @@
+# Layout
+layout: center-top
+transition: none
+
+# Look-and-Feel
+theme: night
+theme-override: icare/2020-09-17/PITCHME.css
+
+code-line-numbers: true
+mathjax: TeX-MML-AM_HTMLorMML-full
+charts: true
+
+logo: assets/images/ttl/ttl-logo.jpg
+footnote: "threetreeslight"
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: "The bottleneck is you"
+description: "VPoEが語るエンジニア組織マネジメント iCARE Dev Meetup #13 on 2020-09-17"
+thumbnail: icare/2020-09-17/thumbnail.png
