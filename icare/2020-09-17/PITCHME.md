@@ -1,6 +1,6 @@
 ## The bottleneck is you
 
-[iCare](https://icare.connpass.com/event/186557/) on 2020-09-17
+[VPoEが語るエンジニア組織マネジメント iCARE Dev Meetup #13](https://icare.connpass.com/event/186557/) on 2020-09-17
 
 by [@threetreeslight](https://twitter.com/threetreeslight), Repro
 
@@ -342,32 +342,11 @@ By 昔の自分より
 
 ### 興味あります？
 
----?color=white
+---
 
-<div class='hiring'>
-@snap[west]
-![](/wantedly/2019-05-28-real-wantedly/stack-cassandra.png)
-<br>
-![](/wantedly/2019-05-28-real-wantedly/stack-presto.png)
-@snapend
-
-![](/wantedly/2019-05-28-real-wantedly/stack-ruby.png)
-![](/wantedly/2019-05-28-real-wantedly/stack-golang.png)
 ## @color[#FF4E6A](We)
 #### @color[#555](are)
 ## @color[#FF4E6A](Hiring)
-![](/wantedly/2019-05-28-real-wantedly/stack-kafka.png)
-![](/wantedly/2019-05-28-real-wantedly/stack-scikit-learn.png)
-
-@snap[east]
-![](/wantedly/2019-05-28-real-wantedly/stack-fluentd.png)
-<br>
-![](/wantedly/2019-05-28-real-wantedly/stack-vuejs.png)
-@snapend
-
-@snap[south]
-@snapend
-</div>
 
 ---
 
@@ -385,6 +364,8 @@ By 昔の自分より
 - [VPoEの責務とは](https://gitpitch.com/threetreeslight/slides/master?p=kiitok/2019-08-29)
 - [Failure learned through some startups](https://gitpitch.com/threetreeslight/slides/master?p=railsdm/failure-learned-through-some-startups)
 - [AWS Startups Blog - What is an Engineering Manager?](https://aws.amazon.com/blogs/startups/what-is-an-engineering-manager/)
+- [How engineering managers can effectively support engineers, teams, and organizations](https://circleci.com/blog/how-to-incorporate-fast-positive-feedback-into-your-team-s-work/)
+- [ティール組織とは？｜5つの段階から誤解と正しい認識までを徹底解説](https://tebanasu-lab.com/pickup/7596/)
 - [マネジメント2.0の時代～プロ経営者ではなくリアル経営者を目指せ！](https://wise-edge.co.jp/episode94/)
 
 
